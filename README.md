@@ -40,6 +40,8 @@
 
 ![Snake animation](https://github.com/lfg-Ribeiro/lfg-Ribeiro/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://raw.githubusercontent.com/lfg-Ribeiro/lfg-Ribeio/output/github-contribution-grid-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=lfg-ribeiro&icon=0&color=1)](https://visitcount.itsvg.in)
 
