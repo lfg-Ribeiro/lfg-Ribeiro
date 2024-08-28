@@ -38,7 +38,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lfg-ribeiro&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfg-ribeiro&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/lfg-ribeiro/lfg-ribeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lfg-Ribeiro/lfg-Ribeiro/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lfg-ribeiro&icon=0&color=1)](https://visitcount.itsvg.in)
