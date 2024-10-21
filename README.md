@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 👋 Hello! Welcome to my Github profile.<br>
 ## My name is Luan Ribeiro!<br>
 
 - 🔭 Atualmente estou trabalhando como Assistente de TI no Hospital da Unimed de Foz do Iguaçu<br>
