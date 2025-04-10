@@ -1,9 +1,9 @@
 # 💫 About Me:
 ## My name is Luan Ribeiro!<br>
 
-- 🔭 Atualmente estou trabalhando como Assistente de TI no Hospital da Unimed de Foz do Iguaçu<br>
-- 🌱 Atualmente estou aprendendo Integração de Sistemas e Testes Automatizados com Full Stack<br>
-- 🤔 Estou procurando ajuda com Frameworks<br>
+- 🔭 Atualmente estou entrando no mercado de trabalho<br>
+- 🌱 Atualmente estou aprendendo Virtualização e Sistemas Operacionais Linux<br>
+- 🤔 Estou procurando ajuda com Backend<br>
 - 💬 Pergunte-me sobre Banco de dados e Front-end<br>
 ## Contatos:<br>
 <a href="https://instagram.com/lfg_Ribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
