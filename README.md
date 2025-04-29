@@ -1,9 +1,9 @@
-# 💫 About Me:
-## My name is Luan Ribeiro!<br>
+# 💫 Sobre mim:
+## Me chamo Luan Ribeiro!<br>
 
-- 🔭 Atualmente estou entrando no mercado de trabalho<br>
+- 🔭 Atualmente estou procurando uma vaga de estágio em Cyber Segurança<br>
 - 🌱 Atualmente estou aprendendo Virtualização e Sistemas Operacionais Linux<br>
-- 🤔 Estou procurando ajuda com Backend<br>
+- 🤔 Estou procurando ajuda com Backend e Web Scraping com Python<br>
 - 💬 Pergunte-me sobre Banco de dados e Front-end<br>
 ## Contatos:<br>
 <a href="https://instagram.com/lfg_Ribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
