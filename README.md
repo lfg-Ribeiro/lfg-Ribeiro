@@ -1,14 +1,14 @@
 # 💫 Sobre mim:
 ## Me chamo Luan Ribeiro!<br>
 
-- 🔭 Atualmente estou procurando uma vaga de estágio em Cyber Segurança<br>
-- 🌱 Atualmente estou aprendendo Virtualização e Sistemas Operacionais Linux<br>
-- 🤔 Estou procurando ajuda com Backend e Web Scraping com Python<br>
+- 🔭 Atualmente estou procurando uma vaga na area de Dados<br>
+- 🌱 Atualmente estou aprendendo Java Spring e Angular 12<br>
+- 🤔 Estou procurando ajuda com JAva Spring e Web Scraping com Python<br>
 - 💬 Pergunte-me sobre Banco de dados e Front-end<br>
 ## Contatos:<br>
 <a href="https://instagram.com/lfg_Ribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:zluan720@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/luan-ribeiro-2aab20228" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lfgribeiro1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br></div><br>
 
 # 💻 Tech Stack:
