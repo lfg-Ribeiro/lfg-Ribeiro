@@ -26,11 +26,14 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lfg-ribeiro&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lfg-ribeiro&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfg-ribeiro&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=lfg-Ribeiro&theme=shadow_blue&hide_border=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lfg-Ribeiro&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lfg-Ribeiro&theme=shadow_blue&hide_border=false&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/lfg-Ribeiro/lfg-Ribeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/lfg-Ribeiro/lfg-Ribeiro/output/github-contribution-grid-snake.svg)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lfg-Ribeiro&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lfg-ribeiro&icon=0&color=1)](https://visitcount.itsvg.in)
