@@ -1,11 +1,10 @@
 # 💫 Sobre mim:
 ## Me chamo Luan Ribeiro!<br>
 
-- 🔭 Atualmente atuo como estagiário de Infraestrutura, com um pezinho em DevOps!<br>
+- 🔭 Atualmente atuo como estagiário de Infraestrutura<br>
 - 🌱 No momento, estou focando meus estudos em DevOps<br>
 - 🤔 Procurando trocar ideias e aprender mais sobre DevOps e Cibersegurança<br>
 - 💬 Pergunte-me sobre Infraestrutura<br>
-
 ## Contatos:<br>
 <a href="https://instagram.com/lfg_Ribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:zluan720@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
